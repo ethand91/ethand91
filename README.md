@@ -7,3 +7,13 @@
 - 💬 Ask me about anyting WebRTC/mediasoup related
 - 📫 How to reach me: edenvir99@gmail.com
 - ⚡ Fun fact: I'm a workout freak 
+
+Dev Blogs:
+
+https://dev.to/ethand91
+
+https://hashnode.com/@ethan91
+
+Contributions:
+
+https://www.buymeacoffee.com/ethand9999
