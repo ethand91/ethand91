@@ -17,3 +17,5 @@ https://hashnode.com/@ethan91
 Contributions:
 
 https://www.buymeacoffee.com/ethand9999
+
+https://ethan91.hashnode.dev/sponsor
