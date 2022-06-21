@@ -8,14 +8,22 @@
 - 📫 How to reach me: edenvir99@gmail.com
 - ⚡ Fun fact: I'm a workout freak 
 
-Dev Blogs:
+---
+
+## Dev Blogs
 
 https://dev.to/ethand91
 
 https://hashnode.com/@ethan91
 
-Contributions:
+---
+
+## Contributions:
 
 https://www.buymeacoffee.com/ethand9999
 
 https://ethan91.hashnode.dev/sponsor
+
+---
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=ethand91&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
