@@ -1,8 +1,6 @@
 <h1 align="center">Hi 👋, I'm Ethan</h1>
 <h3 align="center">A Fullstack Developer Based In Japan</h3>
 
-<p align="left"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=edenvir91" alt="edenvir91" /></a> </p>
-
 - 🔭 I’m currently working on **My Portfolio**
 
 - 🌱 I’m currently learning **React, C++, Ethical Hacking, Rails, Android Compose**
